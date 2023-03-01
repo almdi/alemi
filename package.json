@@ -1,0 +1,14 @@
+{
+  "name": "alemi",
+  "version": "0.0.1",
+  "description": "my homepage trying to learn shit",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
