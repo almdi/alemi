@@ -4,6 +4,8 @@
   "description": "my homepage trying to learn shit",
   "main": "tailwind.config.js",
   "scripts": {
+    "dev": "tailwindcss -i ./src/styles.css -o ./dist/output.css",
+    "dev-watch": "tailwindcss -i ./src/styles.css -o ./dist/output.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
